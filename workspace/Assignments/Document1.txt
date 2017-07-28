@@ -1,0 +1,8 @@
+//a driver's program usedto test on Product class
+//TestProduct.java
+
+class TestProduct
+{
+
+
+}
